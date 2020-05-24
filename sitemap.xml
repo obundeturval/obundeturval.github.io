@@ -7,30 +7,46 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://obundeturval.github.io/</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://obundeturval.github.io/2020/</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://obundeturval.github.io/archive.html</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://obundeturval.github.io/categories.html</loc>
+  <lastmod>2020-05-24T20:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://obundeturval.github.io/categories/</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://obundeturval.github.io/categories/blogg/</loc>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://obundeturval.github.io/categories/journal/</loc>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://obundeturval.github.io/galleries/</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://obundeturval.github.io/listings/</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://obundeturval.github.io/posts/journal-0/</loc>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://obundeturval.github.io/posts/partiledare-genom-tiderna/</loc>
-  <lastmod>2020-05-13T19:52:00Z</lastmod>
+  <lastmod>2020-05-24T20:23:00Z</lastmod>
  </url>
 </urlset>
