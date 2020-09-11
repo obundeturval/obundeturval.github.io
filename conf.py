@@ -155,7 +155,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "detox"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
