@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Obundet Urval ()</title><link>https://obundeturval.github.io/</link><description></description><atom:link href="https://obundeturval.github.io/categories/blogg.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:obundeturvalblog@gmail.com"&gt;Jan Novotny&lt;/a&gt; </copyright><lastBuildDate>Sat, 26 Sep 2020 21:26:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tre sekel av partiledare</title><link>https://obundeturval.github.io/posts/partiledare-genom-tiderna/</link><dc:creator>Jan Novotny</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Obundet Urval ()</title><link>https://obundeturval.github.io/</link><description></description><atom:link href="https://obundeturval.github.io/categories/blogg.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:obundeturvalblog@gmail.com"&gt;Jan Novotny&lt;/a&gt; </copyright><lastBuildDate>Sat, 26 Sep 2020 21:28:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tre sekel av partiledare</title><link>https://obundeturval.github.io/posts/partiledare-genom-tiderna/</link><dc:creator>Jan Novotny</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;&lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;En grafik över riksdagspartiernas ledare genom tiderna.&lt;/p&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~haschischa/1.embed" height="450" width="75%"&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~haschischa/1.embed" height="650" width="150%"&gt;&lt;/iframe&gt;
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;&lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
