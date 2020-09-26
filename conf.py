@@ -25,7 +25,7 @@ SITE_URL = "https://obundeturval.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "obundeturvalblog@gmail.com"
-BLOG_DESCRIPTION = "En blogg om data & statistik med omnejd."  # (translatable)
+BLOG_DESCRIPTION = "En blogg om data & statistik med godtycklig omnejd."  # (translatable)
 
 # Nikola is multilingual!
 #
